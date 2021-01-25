@@ -1,5 +1,5 @@
 # Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA
-Replication code for the manuscript "Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA."
+## Replication code for the manuscript "Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA."
 
 Access results in table format here: https://github.com/SC-COSMO/household_exposure_risk/blob/main/data/formatted_xlsx/puma_estimates_withse.xlsx
 
