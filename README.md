@@ -16,8 +16,9 @@ Access results by subgroup in table format here: https://github.com/SC-COSMO/hou
 
 #### Questions / Comments Contact: mreitsma@stanford.edu.
 
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![alt text](https://github.com/SC-COSMO/household_exposure_risk/blob/main/figure/figure1.png?raw=true)
