@@ -8,3 +8,5 @@ Access results by subgroup in table format here: https://github.com/SC-COSMO/hou
 Citation: Reitsma MB, Salomon JA, Goldhaber-Fiebert JD. Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA. J Gen Intern Med. 2020.
 
 Questions / Comments Contact: mreitsma@stanford.edu.
+
+![alt text](https://github.com/SC-COSMO/household_exposure_risk/blob/main/figure/figure1.png?raw=true)
