@@ -1,8 +1,5 @@
 # Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA
 
-&nbsp;
-&nbsp;
-
 ### Summary of Study and Results
 Evidence on SARS-CoV-2 transmission suggests low-income, essential workers face higher rates of exposure and may be unable to isolate due to lack of space in their homes and risks of income and job loss. Using the American Community Survey, this study examines “high-risk households”, defined as having at least one essential worker and fewer rooms than household members.
 
