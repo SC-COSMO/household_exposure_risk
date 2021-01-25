@@ -10,11 +10,18 @@ An estimated 17.7 million people live in high-risk households. 58% have income b
 
 This study maps an important dimension of structural inequality that is closely linked to COVID-19 risks and health disparities and that can be used in prioritizing prevention efforts.
 
+&nbsp;
+&nbsp;
+
 Access results in table format here: https://github.com/SC-COSMO/household_exposure_risk/blob/main/data/formatted_xlsx/puma_estimates_withse.xlsx
 
 Access results by subgroup in table format here: https://github.com/SC-COSMO/household_exposure_risk/blob/main/data/formatted_xlsx/puma_estimates_withse_race_final.xlsx
 
+&nbsp;
+
 #### Citation: Reitsma MB, Salomon JA, Goldhaber-Fiebert JD. Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA. J Gen Intern Med. 2020.
+
+&nbsp;
 
 #### Questions / Comments Contact: mreitsma@stanford.edu.
 
